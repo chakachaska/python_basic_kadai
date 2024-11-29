@@ -1,5 +1,3 @@
 ＜ディレクトリ構成＞
-git_challenge
-└── hello_world.txt
-Hell,world
-こんにちは,世界
+kadai_005
+└── kadai_005.txt
