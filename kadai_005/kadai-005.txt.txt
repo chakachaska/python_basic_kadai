@@ -1,2 +1,5 @@
-Hello,world!
-こんばんは、世界！
+＜ディレクトリ構成＞
+git_challenge
+└── hello_world.txt
+Hell,world
+こんにちは,世界
