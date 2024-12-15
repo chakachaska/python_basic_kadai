@@ -1,1 +1,3 @@
+git rm kadai_005
+git commit -m "Delete kadai_005 file"
 
